@@ -1,0 +1,19 @@
+.footer{
+
+  weight: 100%;
+  line-height: 60px;
+  background-color: #f5f5f5;
+  margin-left: 10px;
+}
+
+#block {
+        display: none;
+    }
+
+    #messages
+    {
+      width:300px;
+      height:150px;
+      overflow:auto;
+      border:1px solid silver;
+    }
